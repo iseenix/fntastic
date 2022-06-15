@@ -1,5 +1,10 @@
 # Fntastic
 job test work - craft ui
+
+![Frame 72](https://user-images.githubusercontent.com/107551907/173834546-a1e6742c-3815-4d1e-aaa1-c9ce93dda53e.png)
+
+_Отсутсвие изометрии, глубины фрейма, связано с ограничениями инструмента создания интерфейса_
+
 <hr>
 
 FIGMA:
@@ -47,6 +52,7 @@ FIGMA PROTOTYPE:
 ![image](https://user-images.githubusercontent.com/107551907/173824584-c08a42d2-cfea-459e-ae24-5df7692e257a.png)
 
 Состоит из HotKey клавиши и наименование фрейма
+Подразумевается, что этот фрейм состоит из двух частей: Craft и Equipment. Чтобы пользователь мог назначать на HotKey клавиши нужные предметы крафта.
 
 <hr>
 
@@ -74,11 +80,11 @@ FIGMA PROTOTYPE:
 
 #### Доступные ресурсы
 
-![image](https://user-images.githubusercontent.com/107551907/173823630-46449620-cbab-403e-a98a-f9cd1d66f027.png)
+![image](https://user-images.githubusercontent.com/107551907/173833408-edc909ff-7280-4f10-857c-c0e104d17604.png)
 
 1. Иконка ресурса
 2. Количество данного ресурса
-3. При значении больше одной цифры, бандл сдвигается вправо
+3. При значении больше одного символа, бандл сдвигается вправо
 
 <hr>
 
@@ -91,7 +97,7 @@ FIGMA PROTOTYPE:
 
 1. HotKey клавиша + дублирование иконкой
 2. HotKey клавиша
-3. Hotkey клавиша с треугольником, действие - удержание клавиши
+3. Hotkey клавиша с треугольником. Нажать клавишу, чтобы произошло действие
 
 <hr>
 
@@ -105,6 +111,8 @@ FIGMA PROTOTYPE:
 
 #### Тултипы ресурсов:
 
+Такой отступ у тултипа не обсусловлен типом движка
+
 ![gif](https://im5.ezgif.com/tmp/ezgif-5-87b3551526.gif)
 
 #### Ховер эффект карточек
@@ -116,6 +124,7 @@ Source:
 
 ![image](https://user-images.githubusercontent.com/107551907/173827236-ed086403-809f-4d06-96d3-2f0a81d6f746.png)
 
-[stock.zip](https://github.com/iseenix/fntastic/files/8909278/stock.zip)
+[assets.zip](https://github.com/iseenix/fntastic/files/8909425/assets.zip)
+
 
 
