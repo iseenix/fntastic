@@ -126,5 +126,6 @@ Source:
 
 [assets.zip](https://github.com/iseenix/fntastic/files/8909425/assets.zip)
 
+Иконки были конвертированы в png формат, для простоты использования в макете.
 
 
