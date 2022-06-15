@@ -8,6 +8,8 @@ FIGMA:
 FIGMA PROTOTYPE:
 [link](https://www.figma.com/proto/kLwd1d6BBuPT3XuAlNsfCH/The-Day-Before---Craft-UI?page-id=20%3A1685&node-id=44%3A504&viewport=790%2C525%2C0.57&scaling=min-zoom&starting-point-node-id=44%3A504)
 
+**Craft animation - кликабельная первая карточка (AID KIT)**
+
 <hr>
 
 ## Задача:
